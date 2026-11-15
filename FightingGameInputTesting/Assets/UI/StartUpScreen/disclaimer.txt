@@ -1,0 +1,32 @@
+Fighting Game Input Tester
+
+Do I need to be good at fighting games?
+No, inexperienced players are useful samples due to the lack of gameplay biases
+Prompts have also been added to make it easier to understand
+If the challenges become too difficult, you may quit at any time. Partial data is usable, but full completion is appreciated.
+What data is collected?
+Randomly assigned ID
+Your previous related gaming experience
+Your input device
+Your performance in the test (Attempts taken and failure points)
+All data will be stored either locally or in AWS servers both will comply with GDPR.
+
+Can I retry afterwards?
+Yes, additional attempts will be recorded and may also be analysed.
+
+
+Can I have my data deleted?
+Yes, before the deadline of April 15th.
+Please send your ID to this email:
+finnhthrowaway@gmail.com
+
+
+What is the point of doing this?
+The data will look into trends on:
+Which buttons are easier to press
+Which directional inputs are easier to perform
+How input devices affect performance
+This information may inform discussions in game balance, controller legality and groundwork for further research
+
+
+Thank you for participating

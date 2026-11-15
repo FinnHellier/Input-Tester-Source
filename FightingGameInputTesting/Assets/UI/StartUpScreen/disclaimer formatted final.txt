@@ -1,0 +1,22 @@
+<size=150%><b>Fighting Game Input Tester</b></size>
+
+This is a study to record performance of players completing mechanical input challenges in the setting of a fighting game. 
+This will be looking into all levels of play, so new and experienced players are both invited to participate.
+
+Overall the goal of this is to have a dataset to analyse which can identify specific trends like certain buttons being more difficult to press, repeated inputs and motions in inputs.
+This could then be used as a tool to balance fighting games as well as discussing if input devices give an advantage in practice.
+
+To participate open this link: https://finnhellier.github.io/FightingGameInputTester/ and enter your experience and input device after agreeing to participate. 
+The time commitment should be from around 5-20 minutes, if you get stuck and don't believe you can progress any further you may close the website and your results will be recorded. 
+
+To delete your data send the ID given when entering your experience to this email: finnhthrowaway@gmail.com before the 15th of April, after this point data will be analysed and cannot be removed from the set.
+
+Do not participate if you have any pre existing medical conditions that could have negative effects from performing tasks such as gaming, typing or writing. 
+Do not continue in the study if you feel any discomfort.
+
+All data will be stored anonymously.
+Data will be stored following GDPRs guidelines, all data will be stored in an AWS RDS server and will be downloaded and processed locally on the deadline for data deletion. 
+Experience, input device, randomly assigned ID, sequence seed and failure points during test will be recorded. 
+
+If you have an technical issues you can contact Finn Hellier at finnhthrowaway@gmail.com or for any additional inquiries. 
+If you wish to contact the supervisor of the project, Andreas Oikonomou at andreas.oikonomou@ntu.ac.uk will be able to reply.

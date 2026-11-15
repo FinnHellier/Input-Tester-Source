@@ -1,0 +1,4 @@
+repository "FightingGameInputTesting/FightingGameInputTesting@5773711534120@cloud"
+  path "/"
+    br "/main"
+    co "/main"

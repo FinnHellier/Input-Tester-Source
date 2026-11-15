@@ -1,0 +1,10 @@
+{
+    "name": "unity-server-api",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "4.20.0",
+        "mysql2": "3.19.1",
+        "cors": "2.8.6"},
+    "scripts": 
+    {"start": "node server.js"}
+}
